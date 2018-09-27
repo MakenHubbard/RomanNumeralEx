@@ -22,6 +22,22 @@ namespace RomanNumeralEx
                 return "V";
             }
 
+            else if (arabicNum > 5 && arabicNum < 9)
+            {
+                var romanNumString = new System.Text.StringBuilder("V");
+                
+                for(int i = 5; i < arabicNum; i++)
+                {
+                    romanNumString.Append("I");
+                }
+                return romanNumString.ToString();
+            }
+
+            else if (arabicNum == 10)
+            {
+                return "X";
+            }
+
             throw new Exception();
 
             
