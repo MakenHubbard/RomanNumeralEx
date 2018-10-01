@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralEx", "RomanNumeralEx\RomanNumeralEx.csproj", "{B343C9F4-EBDB-4FE4-B8A5-27488C46A5CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanNumeralEx", "RomanNumeralEx\RomanNumeralEx.csproj", "{B343C9F4-EBDB-4FE4-B8A5-27488C46A5CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeral.Tests", "RomanNumeral.Tests\RomanNumeral.Tests.csproj", "{D7FDCC2C-E12A-4864-A9D5-B2F79C6E4C47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanNumeral.Tests", "RomanNumeral.Tests\RomanNumeral.Tests.csproj", "{D7FDCC2C-E12A-4864-A9D5-B2F79C6E4C47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
